@@ -12,7 +12,7 @@
 
 | 로비 | 마이페이지 | 상점 | 게임 화면 |
 |:--:|:--:|:--:|:--:|
-| ![로비 화면](Documents/IMG_5818.gif)) | ![마이페이지](Documents/IMG_5821.gif) | ![상점](Documents/IMG_5820.gif) | ![게임 화면](Documents/IMG_5862.gif) |
+| ![로비 화면](Documents/IMG_5818.gif) | ![마이페이지](Documents/IMG_5821.gif) | ![상점](Documents/IMG_5820.gif) | ![게임 화면](Documents/IMG_5862.gif) |
 
 ---
 
